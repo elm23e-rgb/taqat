@@ -40,7 +40,7 @@ const S = { dest: 'general', prog: 'maather', freq: 'once', amount: CONFIG.start
 const destName = () =>
   S.dest === 'baqi' ? 'الصدقة الجارية'
 : S.dest === 'program' ? UNITS[S.prog].prog
-: 'أينما تشتد الحاجة';
+: 'البرامج الأشد حاجة';
 
 /* الوحدة المعروضة تتبع ما اختاره المتبرّع، لا الأرخص */
 function pool() {

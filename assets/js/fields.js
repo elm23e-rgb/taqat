@@ -93,8 +93,6 @@ window.TAQAT_FIELDS = [
     { sel:'.reel__meta li:nth-child(1) span', label:'بطاقة ١ · الوصف', max:26 },
     { sel:'.reel__meta li:nth-child(2) b', label:'بطاقة ٢ · العنوان', max:22 },
     { sel:'.reel__meta li:nth-child(2) span', label:'بطاقة ٢ · الوصف', max:26 },
-    { sel:'.reel__meta li:nth-child(3) b', label:'بطاقة ٣ · العنوان', max:22 },
-    { sel:'.reel__meta li:nth-child(3) span', label:'بطاقة ٣ · الوصف', max:26 },
     { sel:'.reel__lbl', label:'زر التشغيل', mode:'first', one:1, max:22 },
   ]},
 
